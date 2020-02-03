@@ -3,7 +3,7 @@ header('Content-Type: application/json');
 $config_json = '{
     "auth-enabled": true,
     "data-file": "db.json",
-    "root-path": "/Users/u261720/webroot/dummy-api-generator/",
+    "root-path": "",
     "jwt":{
       "secret-key":"APQWHJJKASDJJH989A86A",
       "issuer-claim":"",
