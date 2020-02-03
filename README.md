@@ -32,3 +32,4 @@ The API generator supports following methods -
 
 # URL formats
 The APIs can be accessed over `*Hostname*/index.php/*endpoint*`
+For Login - `*Hostname*/login.php` with valid uname and upwd. The token which will be received has to be used for any new endpoint call. The token will be passed in the Authorization Header without any Bearer/Auth tag.
