@@ -30,3 +30,5 @@ The API generator supports following methods -
 - PUT
 - DELETE
 
+# URL formats
+The APIs can be accessed over `*Hostname*/index.php/*endpoint*`
